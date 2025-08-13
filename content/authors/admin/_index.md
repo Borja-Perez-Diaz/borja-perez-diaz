@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Borja Pérez Díaz
+title: Dr. Borja Pérez-Díaz
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
