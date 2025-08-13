@@ -241,18 +241,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Videogames
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: videogames
+      - name: CrossFit
         description: ''
-        percent: 80
-        icon: camera
+        percent: 95
+        icon: gym
+      - name: Hiking
+        description: ''
+        percent: 70
+        icon: walk
 
 languages:
   - name: Spanish
