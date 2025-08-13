@@ -197,45 +197,45 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: ''
       - name: R
         description: ''
         percent: 70
-        icon: code-bracket
+        icon: ''
       - name: Git
         description: ''
         percent: 40
-        icon: code-bracket
+        icon: ''
       - name: Bash
         description: ''
         percent: 30
-        icon: code-bracket
+        icon: ''
       - name: LaTeX
         description: ''
         percent: 70
-        icon: code-bracket
+        icon: ''
   - name: Software Skills
     items:
       - name: IRAF
         description: ''
         percent: 40
-        icon: code-bracket
+        icon: ''
       - name: CLOUDY
         description: ''
         percent: 75
-        icon: code-bracket
+        icon: ''
       - name: MAPPINGS
         description: ''
         percent: 50
-        icon: code-bracket
+        icon: ''
       - name: PARIS-DURHAM Shock code
         description: ''
         percent: 40
-        icon: code-bracket
+        icon: ''
       - name: HII-CHI-Mistry
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: ''
 
   - name: Hobbies
     color: '#eeac02'
@@ -244,15 +244,15 @@ skills:
       - name: Videogames
         description: ''
         percent: 100
-        icon: videogames
+        icon: ''
       - name: CrossFit
         description: ''
         percent: 95
-        icon: gym
+        icon: ''
       - name: Hiking
         description: ''
         percent: 70
-        icon: walk
+        icon: ''
 
 languages:
   - name: Spanish
@@ -278,4 +278,6 @@ awards:
 
 ## About Me
 
-Borja Pérez-Díaz is a PhD researcher in Astrophysics, currently employed at the Instituto de Astrofísica de Andalucía-CSIC (Spain). His reserach interests mainly focus on galaxy evolution, with particular emphasys on constraining chemical enrichment, both observationally and theoretically.
+Borja Pérez-Díaz is a PhD researcher in Astrophysics, currently employed at the Instituto de Astrofísica de Andalucía-CSIC (Spain). His reserach interests mainly focus on galaxy evolution, with particular emphasys on constraining chemical enrichment, both observationally and theoretically 
+
+#
