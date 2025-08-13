@@ -261,8 +261,6 @@ languages:
     percent: 80
   - name: French
     percent: 15
-  - name: Italian
-    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
