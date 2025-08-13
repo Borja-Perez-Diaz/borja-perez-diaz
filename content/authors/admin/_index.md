@@ -169,25 +169,25 @@ education:
 
 work:
 - position: Researcher in formation
-    company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-08-01
-    date_end: 2025-07-17
+  company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
+  company_url: ''
+  company_logo: ''
+  date_start: 2021-08-01
+  date_end: 2025-07-17
 
 - position: Researcher
-    company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-04-01
-    date_end: 2021-07-31
+  company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
+  company_url: ''
+  company_logo: ''
+  date_start: 2021-04-01
+  date_end: 2021-07-31
 
 - position: Researcher
-    company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
-    company_url: ''
-    company_logo: ''
-    date_start: 2020-08-01
-    date_end: 2021-02-28
+  company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
+  company_url: ''
+  company_logo: ''
+  date_start: 2020-08-01
+  date_end: 2021-02-28
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
