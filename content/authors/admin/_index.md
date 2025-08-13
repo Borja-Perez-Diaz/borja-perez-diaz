@@ -168,7 +168,7 @@ education:
       - Some statistical methods applied to astrophysics (10.0, Excellent)
 
 work:
-- position: Researcher in formation (Ph.D.)
+- position: Researcher in formation
     company_name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
     company_url: ''
     company_logo: ''
