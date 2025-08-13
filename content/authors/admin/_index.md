@@ -274,10 +274,8 @@ awards:
   - title: Introductory Research Grants for Students 2019 (JAEINT-19-00863)
     date: '2019-09-01'
     awarder: Spanish National Research Council
-
+---
 
 ## About Me
 
 Borja Pérez-Díaz is a PhD researcher in Astrophysics, currently employed at the Instituto de Astrofísica de Andalucía-CSIC (Spain). His reserach interests mainly focus on galaxy evolution, with particular emphasys on constraining chemical enrichment, both observationally and theoretically.
-
----
