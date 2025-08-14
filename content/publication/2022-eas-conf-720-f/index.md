@@ -2,11 +2,11 @@
 title: Metallicities and N/O abundances in star forming galaxies measured with infrared
   nebular lines
 authors:
-- Juan Antonio Fernández Ontiveros
-- Enrique Pérez Montero
-- Borja Pérez-Dı́az
-- José Manuel V\ĺchez
-- ́ Ricardo Amor\'
+- Juan A. Fernández-Ontiveros
+- Enrique Pérez-Montero
+- admin
+- José M. Vílchez
+- ́Ricardo Amorín
 - Luigi Spinoglio
 - Matthew A. Malkan
 - Miguel Pereira-Santaella

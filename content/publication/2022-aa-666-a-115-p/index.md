@@ -5,7 +5,7 @@ authors:
 - admin
 - Enrique Pérez-Montero
 - Juan A. Fernández-Ontiveros
-- José M. V\ĺchez
+- José M. Vílchez
 date: '2022-10-01'
 publishDate: '2025-08-14T18:13:05.343458Z'
 publication_types:

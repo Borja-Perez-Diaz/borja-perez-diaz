@@ -6,7 +6,7 @@ authors:
 - Matthew A. Malkan
 - Suyash Kumar
 - Miguel Pereira-Santaella
-- Borja Pérez-Dı́az
+- admin
 - Enrique Pérez-Montero
 - Alfred Krabbe
 - William Vacca
@@ -16,7 +16,7 @@ date: '2022-02-01'
 publishDate: '2025-08-14T18:13:05.381422Z'
 publication_types:
 - article-journal
-publication: '*apj*'
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/ac37b7
 abstract: 'We present new and archival SOFIA FIFI-LS far-IR spectroscopic observations
   of the [O III] 52 ensuremathμm and/or the [N III] 57 ensuremathμm lines of 25 local
@@ -46,4 +46,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2111.04434
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...926...55S
+- name: journal
+  url: https://iopscience.iop.org/article/10.3847/1538-4357/ac37b7
+url_dataset: https://archives.esac.esa.int/hsa/whsa/?ACTION=PUBLICATION&ID=2022ApJ...926...55S
+image:
+  caption: 'Optical vs infrared estimations of 12+log(O/H)'
+  focal_point: ""
+  preview_only: false
 ---
