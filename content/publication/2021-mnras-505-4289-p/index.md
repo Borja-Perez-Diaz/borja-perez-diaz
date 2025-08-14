@@ -2,7 +2,7 @@
 title: Chemical abundances in the nuclear region of nearby galaxies from the Palomar
   Survey
 authors:
-- B. Pérez-Dı́az
+- admin
 - J. Masegosa
 - I. Márquez
 - E. Pérez-Montero
@@ -10,7 +10,7 @@ date: '2021-08-01'
 publishDate: '2025-08-14T18:13:05.389688Z'
 publication_types:
 - article-journal
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stab1522
 abstract: We estimate chemical abundances and ionization parameters in the nuclear
   region of a sample of 143 galaxies from the Palomar Spectroscopic Survey, composed
@@ -38,4 +38,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2105.11164
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4289P
+- name: journal
+  url: https://academic.oup.com/mnras/article/505/3/4289/6287589
+url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/505/4289
+image:
+  caption: 'Chemical abundances and ionization parameters obtained for LINERs from Palomar Survey (blue) and from Pović et al. (2016) (red)'
+  focal_point: ""
+  preview_only: false
 ---
