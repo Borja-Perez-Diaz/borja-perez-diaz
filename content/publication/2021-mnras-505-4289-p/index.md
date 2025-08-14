@@ -2,7 +2,7 @@
 title: Chemical abundances in the nuclear region of nearby galaxies from the Palomar
   Survey
 authors:
-- **B. Pérez-Díaz**
+- admin
 - J. Masegosa
 - I. Márquez
 - E. Pérez-Montero
@@ -21,4 +21,6 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2105.11164
+- name: journal
+  url: https://academic.oup.com/mnras/article/505/3/4289/6287589
 ---
