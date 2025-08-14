@@ -2,7 +2,7 @@
 title: 'Measuring chemical abundances in AGN from infrared nebular lines: HII-CHI-MISTRY-IR
   for AGN'
 authors:
-- Borja Pérez-Dı́az
+- admin
 - Enrique Pérez-Montero
 - Juan A. Fernández-Ontiveros
 - José M. V\ĺchez
@@ -10,7 +10,7 @@ date: '2022-10-01'
 publishDate: '2025-08-14T18:13:05.343458Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202243602
 abstract: "Context. Future and ongoing infrared and radio observatories such as JWST,
   METIS, and ALMA will increase the amount of rest-frame IR spectroscopic data for
@@ -39,10 +39,7 @@ abstract: "Context. Future and ongoing infrared and radio observatories such as 
   higher than the former. This discrepancy, also reported by previous studies of the
   composition of the ISM in AGN from IR observations, is independent of the gas density
   or the incident radiation field to the gas, and it is likely associated with dust
-  obscuration and/or temperature stratification within the gas nebula. Full Tables
-  A.1-A.4 are only available at the CDS via anonymous ftp to <A href=``http://cdsarc.u-strasbg.fr/''>cdsarc.u-strasbg.fr</A>
-  (ftp://130.79.128.5) or via <A href=``http://cdsarc.u-strasbg.fr/viz- bin/cat/J/A+A/666/A115''>http://cdsarc.u-strasbg.fr/viz-
-  bin/cat/J/A+A/666/A115</A>"
+  obscuration and/or temperature stratification within the gas nebula."
 tags:
 - 'galaxies: abundances'
 - 'galaxies: active'
@@ -53,4 +50,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.08718
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022A&A...666A.115P
+- name: journal
+  url: https://www.aanda.org/articles/aa/full_html/2022/10/aa43602-22/aa43602-22.html
+url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/666/A115
+image:
+  caption: 'The log(N/O) vs 12+log(O/H) as estimated from IR emission lines'
+  focal_point: ""
+  preview_only: false
 ---
