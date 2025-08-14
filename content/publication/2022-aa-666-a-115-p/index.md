@@ -2,7 +2,7 @@
 title: 'Measuring chemical abundances in AGN from infrared nebular lines: HII-CHI-MISTRY-IR
   for AGN'
 authors:
-- Borja \textbfPérez-Dı́az
+- **Borja Pérez-Díaz**
 - Enrique Pérez-Montero
 - Juan A. Fernández-Ontiveros
 - José M. V\ĺchez
