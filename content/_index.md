@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/V_BorjaPerezDiaz.pdf
+        url: uploads/CV_BorjaPerezDiaz.pdf
     design:
       css_class: dark
       background:
