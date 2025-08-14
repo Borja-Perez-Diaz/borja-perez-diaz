@@ -48,6 +48,7 @@ interests:
   - Active Galactic Nuclei
   - Interstellar Medium
   - Chemical Enrichment
+  - Galaxy Evolution
 
 education:
   - area: PhD Astrophysics
