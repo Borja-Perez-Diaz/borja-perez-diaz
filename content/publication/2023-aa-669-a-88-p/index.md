@@ -3,16 +3,16 @@ title: 'The softness diagram for MaNGA star-forming regions: diffuse ionized gas
   or local HOLMES predominance?'
 authors:
 - E. Pérez-Montero
-- I.~A. Zinchenko
-- J.~M. Vı́lchez
+- I. A. Zinchenko
+- J. M. Vı́lchez
 - A. Zurita
 - E. Florido
-- B. Pérez-D\áz
+- admin
 date: '2023-01-01'
 publishDate: '2025-08-14T18:13:05.335513Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202244591
 abstract: ' Aims: We explore the so-called softness diagram - whose main function
   is to provide the hardness of the ionizing radiation in star-forming regions - in
@@ -41,4 +41,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2212.03216
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023A&A...669A..88P
+- name: journal
+  url: https://www.aanda.org/articles/aa/full_html/2023/01/aa44591-22/aa44591-22.html
+url_dataset: ''
+image:
+  caption: 'Extraplanar Diffuse Ionized Gas as traced by [SII] in galaxy IC 1533 (see González-Díaz et al. 2024)'
+  focal_point: ""
+  preview_only: false
 ---

@@ -2,17 +2,17 @@
 title: Chemistry and physical properties of the born-again planetary nebula HuBi 1
 authors:
 - B. Montoro-Molina
-- M.~A. Guerrero
-- B. Pérez-Dı́az
-- J.~A. Toalá
+- M. A. Guerrero
+- admin
+- J. A. Toalá
 - S. Cazzoli
-- M.~M. Miller Bertolami
+- M. M. Miller Bertolami
 - C. Morisset
 date: '2022-05-01'
 publishDate: '2025-08-14T18:13:05.373308Z'
 publication_types:
 - article-journal
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stac336
 abstract: The central star of the planetary nebula (PN) HuBi 1 has been recently proposed
   to have experienced a very late thermal pulse (VLTP), but the dilution of the emission
@@ -44,4 +44,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2202.00353
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4003M
+- name: journal
+  url: https://academic.oup.com/mnras/article/512/3/4003/6527589?login=false
+url_dataset: ''
+image:
+  caption: 'Optical images from PNe HuBi 1 (see Toalá et al. 2021)'
+  focal_point: ""
+  preview_only: false
 ---
