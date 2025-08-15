@@ -1,24 +1,24 @@
 ---
-title: Unveiling chemical enrichment in galaxies through infrared emission lines
+title: Chemical abundances in the NLR of AGN based on IR emission lines
 
-event: IV Workshop on Chemical Abundances in Gaseous Nebulae - 2024
-event_url: https://www.univap.br/univap/pesquisa/iped/chemical-abundances-in-gaseous-nebulae
+event:  XIII Estallidos Workshop - Starburst along the life of the Universe - 2023
+event_url: https://research.iac.es/proyecto/estallidos2/pages/workshops/workshop-xiii-2022.php
 
-location: Universidade do Vale do Paraiba
+location: Centro de Física “Miguel Antonio Catalán”
 address:
-  street: Av. Shishima Hifumi, 2911, Urbanova
-  city: Sao Jose dos Campos
-  region: SP
-  postcode: '12244-000'
-  country: Brazil
+  street: Calle Serrano 121
+  city: Madrid
+  region: Comunidad de Madrid
+  postcode: '28006'
+  country: Spain
 
 #summary: ''
 #abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-06'
-date_end: '2024-05-10'
+date: '2022-05-18'
+date_end: '2022-05-20'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'IV Brazil 2024 logo'
+  caption: 'Estallidos logo'
   focal_point: Right
 
 #links:

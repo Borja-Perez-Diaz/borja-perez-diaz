@@ -1,24 +1,24 @@
 ---
 title: Unveiling chemical enrichment in galaxies through infrared emission lines
 
-event: IV Workshop on Chemical Abundances in Gaseous Nebulae - 2024
-event_url: https://www.univap.br/univap/pesquisa/iped/chemical-abundances-in-gaseous-nebulae
+event: XIV Estallidos Workshop - Multifaced study of the star-formation in the Universe - 2024
+event_url: https://research.iac.es/proyecto/estallidos2/pages/workshops/workshop-xiv-2024.php
 
-location: Universidade do Vale do Paraiba
+location: La Cristalera
 address:
-  street: Av. Shishima Hifumi, 2911, Urbanova
-  city: Sao Jose dos Campos
-  region: SP
-  postcode: '12244-000'
-  country: Brazil
+  street: Calle Einstein, 13. Pabellón C
+  city: Madrid
+  region: Comunidad de Madrid
+  postcode: '28049'
+  country: Spain
 
 #summary: ''
 #abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-06'
-date_end: '2024-05-10'
+date: '2024-02-05'
+date_end: '2024-02-07'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'IV Brazil 2024 logo'
+  caption: 'XIV Estallidos 2024 logo'
   focal_point: Right
 
 #links:

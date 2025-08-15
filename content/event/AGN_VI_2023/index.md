@@ -1,24 +1,24 @@
 ---
-title: Unveiling chemical enrichment in galaxies through infrared emission lines
+title: The chemical content of the NLR as estimated from IR emission lines in AGNs
 
-event: IV Workshop on Chemical Abundances in Gaseous Nebulae - 2024
-event_url: https://www.univap.br/univap/pesquisa/iped/chemical-abundances-in-gaseous-nebulae
+event: VI Meeting of AGN Research in Spain in the Era of the New Observatories - 2023
+event_url: https://www.granadacongresos.com/agn2023
 
-location: Universidade do Vale do Paraiba
+location: Instituto de Astrofísica de Andalucía
 address:
-  street: Av. Shishima Hifumi, 2911, Urbanova
-  city: Sao Jose dos Campos
-  region: SP
-  postcode: '12244-000'
-  country: Brazil
+  street: Glorieta de la Astronomía
+  city: Granada
+  region: Granada
+  postcode: '18008'
+  country: Spain
 
 #summary: ''
 #abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-06'
-date_end: '2024-05-10'
+date: '2023-01-30'
+date_end: '2023-02-01'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'IV Brazil 2024 logo'
+  caption: 'VI Spanish AGN logo'
   focal_point: Right
 
 #links:

@@ -1,10 +1,10 @@
 ---
-title: Unveiling chemical enrichment in galaxies through infrared emission lines
+title: Chemical abundances in the nuclear region of nearby galaxies from the Palomar Survey
 
-event: IV Workshop on Chemical Abundances in Gaseous Nebulae - 2024
+event:  III Workshop on Chemical Abundances in Gaseous Nebulae  - 2021
 event_url: https://www.univap.br/univap/pesquisa/iped/chemical-abundances-in-gaseous-nebulae
 
-location: Universidade do Vale do Paraiba
+location: Universidade do Vale do Paraiba (Online)
 address:
   street: Av. Shishima Hifumi, 2911, Urbanova
   city: Sao Jose dos Campos
@@ -17,8 +17,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-06'
-date_end: '2024-05-10'
+date: '2021-05-24'
+date_end: '2021-05-28'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'IV Brazil 2024 logo'
+  caption: 'IPD logo'
   focal_point: Right
 
 #links:
