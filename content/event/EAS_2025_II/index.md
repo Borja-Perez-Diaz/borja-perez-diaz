@@ -1,24 +1,24 @@
 ---
-title: Unveiling chemical enrichment in galaxies through infrared emission lines
+title: Sulfur and Nitrogen; Key Players in the Chemical Enrichment Story”
 
-event: Invited Talk
-event_url: https://www.stsci.edu/home
+event: Contributed Talk
+event_url: https://eas.unige.ch/EAS2025/
 
-location: Space Telescope Science Institute
+location: University College Cork
 address:
-  street: Steven Muller Building
-  city: Baltimore
-  region: Maryland
-  postcode: '21218'
-  country: United States of America
+  street: 60 College Road
+  city: Cork
+  region: Cork
+  postcode: 'T12 K5W7'
+  country: Ireland
 
 #summary: ''
 #abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-15'
-date_end: '2023-06-15'
+date: '2025-06-23'
+date_end: '2025-06-27'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'STScI logo'
+  caption: 'EAS 2025 logo'
   focal_point: Right
 
 #links:
@@ -59,5 +59,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - Invited
+  - Contributed
 ---
