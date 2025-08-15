@@ -4,14 +4,14 @@ title: Assessing model-based carbon and oxygen abundance derivation from ultravi
 authors:
 - E. Pérez-Montero
 - R. Amorı́n
-- B. Pérez-D\áz
-- J.~M. V\'ćhez
-- R. Garc\'ıB́enito
+- admin
+- J. M. Vílchez
+- R. García-Benito
 date: '2023-05-01'
 publishDate: '2025-08-14T18:13:05.321685Z'
 publication_types:
 - article-journal
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stad621
 abstract: We present an adapted version of the code HII-CHI-MISTRY-UV to derive chemical
   abundances from emission lines in the ultraviolet, for use in narrow line regions
@@ -39,4 +39,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2302.12560
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.1556P
+- name: journal
+  url: https://academic.oup.com/mnras/article/521/1/1556/7068104?login=false
+url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/521/1556
+image:
+  caption: 'Seyfert galaxy M77 as seen from SWIFT in the UV (~2030)'
+  focal_point: ""
+  preview_only: false
 ---

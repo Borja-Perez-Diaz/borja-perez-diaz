@@ -5,17 +5,17 @@ authors:
 - A. Arroyo-Polonio
 - J. Iglesias-Páramo
 - C. Kehrig
-- J.~M. Vı́lchez
-- R. Amor\ń
+- J. M. Vı́lchez
+- R. Amorín
 - I. Breda
 - E. Pérez-Montero
-- B. Pérez-D\'ź
+- admin
 - M. Hayes
 date: '2023-09-01'
 publishDate: '2025-08-14T18:13:05.305322Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202346192
 abstract: Green Pea galaxies (GPs) present among the most intense starbursts known
   in the nearby Universe. These galaxies are regarded as local analogs of high-redshift
@@ -61,4 +61,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2309.09585
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023A&A...677A.114A
+- name: journal
+  url: https://www.aanda.org/articles/aa/full_html/2023/09/aa46192-23/aa46192-23.html
+url_dataset: ''
+image:
+  caption: 'Continuum map (4154-7026 rest frame) for Green Pea-06'
+  focal_point: ""
+  preview_only: false
 ---

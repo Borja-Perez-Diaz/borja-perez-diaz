@@ -2,10 +2,10 @@
 title: 'Measuring chemical abundances in AGN from infrared nebular lines: HII-CHI-Mistry-IR
   for AGN'
 authors:
-- B. Pérez-Dı́az
+- admin
 - E. Pérez-Montero
-- J.~A. Fernández-Ontiveros
-- J.~M. V\ĺchez
+- J. A. Fernández-Ontiveros
+- J. M. Vílchez
 date: '2023-05-01'
 publishDate: '2025-08-14T18:13:05.314183Z'
 publication_types:
