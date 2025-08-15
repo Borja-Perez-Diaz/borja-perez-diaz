@@ -20,6 +20,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+      
   - block: collection
     content:
       title: Scientific Collaborations (Previous)
@@ -31,6 +32,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+
   - block: collection
     content:
       title: Software Collaborations
