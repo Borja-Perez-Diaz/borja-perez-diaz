@@ -31,4 +31,15 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  - block: collection
+    content:
+      title: Software Collaborations
+      text: List of the Software Collaborations I have been involved throughout my research career.
+      filters:
+        folders:
+          - projectsoft
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
 ---
