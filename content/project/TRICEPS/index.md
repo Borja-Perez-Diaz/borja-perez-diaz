@@ -1,6 +1,6 @@
 ---
 title: TRICEPS - Tracing Rotation with Ionized Carbon in Early Primeval Systems
-date: Currently
+date: 2025-07-01
 external_link: https://www.lellifederico.com/triceps
 tags:
   - TRICEPS

@@ -1,6 +1,6 @@
 ---
 title: Estallidos
-date: Currently
+date: 2021-02-01
 external_link: https://research.iac.es/proyecto/estallidos2/
 tags:
   - Estallidos
