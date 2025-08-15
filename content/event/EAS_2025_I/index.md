@@ -1,5 +1,5 @@
 ---
-title: Sulfur and Nitrogen; Key Players in the Chemical Enrichment Story
+title: Far-IR Emission Lines; Revealing the True Chemical Enrichment History
 
 event: European Astronomical Society Annual Meeting - 2025
 event_url: https://eas.unige.ch/EAS2025/

@@ -1,24 +1,24 @@
 ---
-title: Sulfur and Nitrogen; Key Players in the Chemical Enrichment Story
+title: Unveiling chemical enrichment in galaxies through infrared emission lines
 
-event: European Astronomical Society Annual Meeting - 2025
-event_url: https://eas.unige.ch/EAS2025/
+event: XVI Reunión Científica de la SEA - 2024
+event_url: https://www.granadacongresos.com/sea2024
 
-location: University College Cork
+location: Parque de las Ciencias de Granada
 address:
-  street: 60 College Road
-  city: Cork
-  region: Cork
-  postcode: 'T12 K5W7'
-  country: Ireland
+  street: Av. de la Ciencia
+  city: Granada
+  region: Granada
+  postcode: '18006'
+  country: Spain
 
 #summary: ''
 #abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-23'
-date_end: '2025-06-27'
+date: '2024-07-15'
+date_end: '2024-07-19'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'EAS 2025 logo'
+  caption: 'SEA 2024 logo'
   focal_point: Right
 
 #links:

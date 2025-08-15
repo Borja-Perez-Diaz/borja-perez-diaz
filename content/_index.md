@@ -68,11 +68,11 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Activities
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

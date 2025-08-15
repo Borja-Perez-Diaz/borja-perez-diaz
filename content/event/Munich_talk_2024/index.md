@@ -1,7 +1,7 @@
 ---
 title: Gas-rich Systems - The chemical content of the gas-phase ISM as revealed through infrared emission lines
 
-event: Invited Talk
+event: Abundance Gradients in the Local Universe (ADONIS) - 2024
 event_url: https://www.munich-iapbp.de/adonis
 
 location: MIAPbP - Munich Institute for Astro-, Particle and BioPhysics an institute of the Excellence Cluster ORIGINS 
