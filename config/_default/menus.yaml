@@ -13,7 +13,7 @@ main:
   - name: Talks
     url: /#talks
     weight: 21
-  - name: News
+  - name: Activities
     url: /#news
     weight: 30
   - name: Experience
