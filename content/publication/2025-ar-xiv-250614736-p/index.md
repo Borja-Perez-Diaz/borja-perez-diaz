@@ -3,13 +3,13 @@ title: 'Sulphur abundances in star-forming regions from optical emission lines: 
   new approach based on photoionization models consistent with the direct method'
 authors:
 - Enrique Pérez-Montero
-- Borja Pérez-Dı́az
-- José M. V\ĺchez
+- admin
+- José M. Vílchez
 - Igor A. Zinchenko
 - Asier Castrillo
 - Marta Gavilán
 - Sandra Zamora
-- Ángeles I. D\'ź
+- Ángeles I. Díaz
 date: '2025-06-01'
 publishDate: '2025-08-14T18:13:05.188402Z'
 publication_types:
@@ -40,4 +40,8 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.14736
+image:
+  caption: 'Sulphur ionic abundance fractions accros a photoionized nebula'
+  focal_point: ""
+  preview_only: false
 ---

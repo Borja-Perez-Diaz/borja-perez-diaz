@@ -44,4 +44,9 @@ image:
   caption: 'Composite image of the deep-driving scenario. Galaxy images taken from HST observations'
   focal_point: ""
   preview_only: false
+
+# Summary. An optional shortened abstract.
+summary: Mergen-driven infall of metal-poor gas causes metallicity dillutation but enhances star formation, explaining observed properties of (U)LIRGs.
+
+featured: True
 ---

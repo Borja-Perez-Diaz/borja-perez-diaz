@@ -2,11 +2,11 @@
 title: 'A deep-dive beneath the mass-metallicity relation: Unveiling chemical enrichment
   in galaxies through infrared emission lines'
 authors:
-- B. Pérez-Dı́az
+- admin
 - E. Pérez-Montero
-- J.~A. Fernández-Ontiveros
-- J.~M. V\ĺchez
-- ́ R. Amor\'
+- J. A. Fernández-Ontiveros
+- J. M. Vílchez
+- ́R. Amorín
 date: '2025-05-01'
 publishDate: '2025-08-14T18:13:05.206128Z'
 publication_types:

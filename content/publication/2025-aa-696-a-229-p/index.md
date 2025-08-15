@@ -4,15 +4,15 @@ title: 'Exploring the hardness of the ionizing radiation with the infrared softn
   excitation in active galactic nuclei'
 authors:
 - E. Pérez-Montero
-- J.~A. Fernández-Ontiveros
-- B. Pérez-Dı́az
-- J.~M. V\ĺchez
-- ́ R. Amor\'
+- J. A. Fernández-Ontiveros
+- admin
+- J. M. Vílchez
+- ́R. Amorín
 date: '2025-04-01'
 publishDate: '2025-08-14T18:13:05.213345Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202453276
 abstract: Aims. After exploring a version of the infrared (IR) softness diagram to
   characterize the hardness of the incident ionizing radiation in star-forming regions,
@@ -47,4 +47,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2503.09267
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2025A&A...696A.229P
+- name: journal
+  url: https://www.aanda.org/articles/aa/full_html/2025/04/aa53276-24/aa53276-24.html
+url_dataset: ''
+image:
+  caption: 'Artistic representation of an Active Galactic Nuclei (Credits to ESO, M. Kornmesser)'
+  focal_point: ""
+  preview_only: false
 ---

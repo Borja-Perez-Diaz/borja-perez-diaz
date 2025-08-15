@@ -3,13 +3,13 @@ title: 'The Andromeda Veil: Combining MEGARA and JAST80 to Probe the Nature of a
   Nebula Towards M31'
 authors:
 - A. Lumbreras-Calle
-- J.~A. Fernández-Ontiveros
+- J. A. Fernández-Ontiveros
 - R. Infante-Sainz
 - A. del Pino Molina
 - M. Akhlaghi
 - B. Montoro-Molina
 - H. Vives-Arias
-- B. Pérez-Dı́az
+- admin
 - M. Guerrero Roncel
 - S. Eskandarlou
 - A. Ederoclite
