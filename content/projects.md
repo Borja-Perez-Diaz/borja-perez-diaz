@@ -20,9 +20,6 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-
-# Page sections
-sections:
   - block: collection
     content:
       title: Scientific Collaborations (Previous)
