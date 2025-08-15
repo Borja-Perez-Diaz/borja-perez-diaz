@@ -19,8 +19,8 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
-      
+      columns: 1
+
   - block: collection
     content:
       title: Scientific Collaborations (Previous)
@@ -31,7 +31,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 1
 
   - block: collection
     content:
@@ -43,5 +43,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 1
 ---
