@@ -1,24 +1,24 @@
 ---
-title: The chemical content of the Narrow Line Region as inferred from optical and infrared nebular emission lines
+title: Gas-rich Systems - The chemical content of the gas-phase ISM as revealed through infrared emission lines
 
-event: Scientific Seminar
-event_url: https://www.cefca.es/
+event: Invited Talk
+event_url: https://www.munich-iapbp.de/adonis
 
-location: Centro de Estudios de Física del Cosmos de Aragón
+location: MIAPbP - Munich Institute for Astro-, Particle and BioPhysics an institute of the Excellence Cluster ORIGINS 
 address:
-  street: Plaza San Juan 1
-  city: Teruel
-  region: Teruel
-  postcode: '44001'
-  country: Spain
+  street: Boltzmannstraße 2
+  city: Garching
+  region: Munich
+  postcode: '85748'
+  country: Germany
 
 #summary: ''
 #abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-09'
-date_end: '2023-01-14'
+date: '2024-03-25'
+date_end: '2024-04-19'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'CEFCA logo'
+  caption: 'Conference logo'
   focal_point: Right
 
 #links:
@@ -59,5 +59,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - Seminars
+  - Invited
 ---
