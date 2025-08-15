@@ -56,7 +56,7 @@ links:
   url: https://www.aanda.org/articles/aa/full_html/2022/10/aa43602-22/aa43602-22.html
 url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/666/A115
 image:
-  caption: 'The log(N/O) vs 12+log(O/H) as estimated from IR emission lines'
+  caption: 'Multiwavelength composite image of the Seyfert galaxy Centaurus A (Credtis to NASA, CXC, SAO, Astrophotography by Rolf Olsen, NASA-JPL, Caltech, NRAO, AUI, NSF, UOH, M. J. Hardcastle)'
   focal_point: ""
   preview_only: false
 ---

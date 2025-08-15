@@ -44,7 +44,7 @@ links:
   url: https://academic.oup.com/mnras/article/505/3/4289/6287589
 url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/505/4289
 image:
-  caption: 'Chemical abundances and ionization parameters obtained for LINERs from Palomar Survey (blue) and from Pović et al. (2016) (red)'
+  caption: 'LINER NGC 2787 from the Palomar Survey as seen through HST (credits to NASA/ESA and The Hubble Heritage Team)'
   focal_point: ""
   preview_only: false
 ---

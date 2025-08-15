@@ -61,7 +61,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Physics and Mathematics
-    institution: Massachusetts Institute of Technology
+    institution: University of Granada
     date_start: 2019-09-30
     date_end: 2020-06-30
     summary: |
@@ -279,4 +279,4 @@ awards:
 
 ## About Me
 
-Borja Pérez-Díaz is a PhD researcher in Astrophysics, currently employed at the Instituto de Astrofísica de Andalucía-CSIC (Spain). His reserach interests mainly focus on galaxy evolution, with particular emphasys on constraining chemical enrichment, both observationally and theoretically.
+Hi! I am Borja, a PhD researcher in Astrophysics, currently employed at the Instituto de Astrofísica de Andalucía-CSIC (Spain). My reserach interests mainly focus on galaxy evolution, with particular emphasis on constraining chemical enrichment, both observationally and theoretically.
