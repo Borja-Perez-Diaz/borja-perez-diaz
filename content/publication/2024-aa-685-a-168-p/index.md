@@ -52,4 +52,9 @@ image:
   caption: 'Image from the Kitt Peak National Observatory of NGC 6946 contextualizes the locations of Supernova 2004et and Supernova 2017eaw within the galaxy (Credits to Alyssa Pagan, STScI)'
   focal_point: ""
   preview_only: false
+
+# Summary. An optional shortened abstract.
+summary: Unveiling chemical enrichment through IR emission lines: the importance of estimation N and S abundances.
+
+featured: True
 ---
