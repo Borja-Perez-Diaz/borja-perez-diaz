@@ -3,7 +3,7 @@ title: 'Contribution of very massive stars to the sulfur abundance in star-formi
   galaxies: Role of pair-instability supernovae'
 authors:
 - S. Goswami
-- J.M. Vílchez
+- J. M. Vílchez
 - admin
 - L. Silva
 - A. Bressan
