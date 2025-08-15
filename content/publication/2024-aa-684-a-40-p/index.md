@@ -4,16 +4,16 @@ title: Exploring the hardness of the ionising radiation with the infrared softne
   infrared galaxies
 authors:
 - E. Pérez-Montero
-- J.~A. Fernández-Ontiveros
-- B. Pérez-Dı́az
-- J.~M. V\ĺchez
+- J. A. Fernández-Ontiveros
+- admin
+- J. M. Vílchez
 - N. Kumari
-- ́ R. Amor\'
+- ́R. Amorín
 date: '2024-04-01'
 publishDate: '2025-08-14T18:13:05.268998Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202348089
 abstract: ' Aims: We explored the softness parameter in the infrared, ensuremathη$_IR$$^′$,
   whose main purpose is the characterisation of the hardness of the incident ionising
@@ -49,4 +49,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.09765
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2024A&A...684A..40P
+- name: journal
+  url: https://www.aanda.org/articles/aa/full_html/2024/04/aa48089-23/aa48089-23.html
+url_dataset: ''
+image:
+  caption: 'ULIRG Arp 220 as seen through the JWST [Credits to NASA, ESA, CSA, K. Pontoppidan (STScI), A. Pagan (STScI)]'
+  focal_point: ""
+  preview_only: false
 ---

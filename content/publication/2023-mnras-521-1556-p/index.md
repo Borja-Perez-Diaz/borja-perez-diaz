@@ -45,7 +45,7 @@ links:
   url: https://academic.oup.com/mnras/article/521/1/1556/7068104?login=false
 url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/521/1556
 image:
-  caption: 'Seyfert galaxy M77 as seen from SWIFT in the UV (~2030)'
+  caption: 'Seyfert galaxy M77 as seen from SWIFT in the UV (~2030) [Credits to Brown et al. (2014)]'
   focal_point: ""
   preview_only: false
 ---

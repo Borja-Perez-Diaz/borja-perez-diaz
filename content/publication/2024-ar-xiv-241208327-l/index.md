@@ -2,16 +2,16 @@
 title: "Andromeda's tenuous veil: extensive nebular emission near (yet far from) M31"
 authors:
 - A. Lumbreras-Calle
-- J.~A. Fernández-Ontiveros
+- J. A. Fernández-Ontiveros
 - R. Infante-Sainz
 - M. Akhlaghi
 - B. Montoro-Molina
-- B. Pérez-Dı́az
+- admin
 - A. del Pino
 - H. Vives-Arias
 - A. Hernán-Caballero
 - C. López-Sanjuan
-- M.~A. Mart\ń-Guerrero
+- M. A. Martín-Guerrero
 - S. Eskandarlou
 - A. Ederoclite
 date: '2024-12-01'
@@ -48,4 +48,8 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.08327
+image:
+  caption: 'Contours of emission in the JAST80 observations on the nebula, for [O II] (filter J⁢0378) in cyan, and for H_alpha in red (filter J0660)'
+  focal_point: ""
+  preview_only: false
 ---

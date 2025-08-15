@@ -2,11 +2,11 @@
 title: A departure from the mass-metallicity relation in merging galaxies due to an
   infall of metal-poor gas
 authors:
-- Borja Pérez-Dı́az
+- admin
 - Enrique Pérez-Montero
 - Juan A. Fernández-Ontiveros
-- José M. V\ĺchez
-- ́ Ricardo Amor\'
+- José M. Vílchez
+- ́Ricardo Amorín
 date: '2024-03-01'
 publishDate: '2025-08-14T18:13:05.283590Z'
 publication_types:
@@ -35,4 +35,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2306.14843
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2024NatAs...8..368P
+- name: journal
+  url: https://www.nature.com/articles/s41550-023-02171-x
+url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/other/NatAs/8.368
+image:
+  caption: 'Composite image of the deep-driving scenario. Galaxy images taken from HST observations'
+  focal_point: ""
+  preview_only: false
 ---

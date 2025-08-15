@@ -2,15 +2,15 @@
 title: 'Chemical enrichment in LINERs from MaNGA: I. Tracing the nuclear abundances
   of oxygen and nitrogen in LINERs with varied ionizing sources'
 authors:
-- Borja Pérez-Dı́az
+- admin
 - Enrique Pérez-Montero
 - Igor A. Zinchenko
-- José M. V\ĺchez
+- José M. Vílchez
 date: '2025-02-01'
 publishDate: '2025-08-14T18:13:05.222047Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*Astronomy & Astrophysics*'
 doi: 10.1051/0004-6361/202452862
 abstract: Context. The chemical enrichment in low-ionization nuclear emission-line
   regions (LINERs) is still an issue with spatial resolution spectroscopic data because
@@ -45,4 +45,13 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2411.16611
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2025A&A...694A..18P
+- name: journal
+  url: https://www.aanda.org/articles/aa/full_html/2025/02/aa52862-24/aa52862-24.html
+url_dataset: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/694/A18
+image:
+  caption: 'H_alpha map image of the LINER-like galaxy MaNGA 9881-6102'
+  focal_point: ""
+  preview_only: false
 ---
