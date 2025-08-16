@@ -59,7 +59,7 @@ education:
       "Interpretation of the infrared emission lines from starburst galaxies and active galactic nuclei based on photoionization models", supervised by Dr. Enrique Pérez-Montero and Prof. José M. Vílchez (10.0/10.0, Excellent)
     button:
       text: 'Read PhD Thesis'
-      url: uploads/main.pdf
+      url: ../uploads/main.pdf
   - area: MSc Physics and Mathematics
     institution: University of Granada
     date_start: 2019-09-30
@@ -81,7 +81,7 @@ education:
       - "Chemical abundances in nearby galaxies from the Palomar Survey", supervied by Dr. Josefa Masegosa and Dr. Isabel Márquez (10.0, Very good pass)
     button:
       text: 'Read MSc Thesis'
-      url: uploads/Apuntes_CANG.pdf
+      url: ../uploads/Apuntes_CANG.pdf
 
   - area: BSc Physics
     institution: University of Oviedo
@@ -127,7 +127,7 @@ education:
       - "The nature of the co-evolution of host galaxies and their active galactic nuclei", supervised by Prof. Luigi Toffolatti (9.8, Excellent)
     button:
       text: 'Read BSc Thesis'
-      url: uploads/Apuntes_CAG.pdf
+      url: ../uploads/Apuntes_CAG.pdf
 
   - area: BSc Mathematics
     institution: University of Oviedo
@@ -175,7 +175,7 @@ education:
       - "Some statistical methods applied to astrophysics", supervised by Prof. María T. López-García (10.0, Excellent)
     button:
       text: 'Read BSc Thesis'
-      url: uploads/Apuntes_MEA.pdf
+      url: ../uploads/Apuntes_MEA.pdf
 
 work:
 - position: Researcher in formation
